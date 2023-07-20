@@ -1,0 +1,22 @@
+{
+	"books" : [
+    {
+		"bookId": 1,
+		"bookTitle": "The Shining",
+		"authorName": "Stephen King",
+		"publisherName": "Smithson"
+		},
+		{
+		"bookId": 2,
+		"bookTitle": "The Curious Incident of the dog in the night time",
+		"authorName": "Mark Haddon",
+		"publisherName": "Goodreads"
+		},
+		{
+		"bookId": 3,
+		"bookTitle": "A Prisoner of birth",
+		"authorName": "Jeffrey Archer",
+		"publisherName": "Penguin"
+		}
+	]
+}

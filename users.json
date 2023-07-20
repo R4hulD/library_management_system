@@ -1,0 +1,32 @@
+{
+	"admins": [
+    {
+		  "userName": "admin1",
+		  "password": "123"
+		},
+		{
+		  "userName": "admin2",
+		  "password": "1234"
+		}
+  ],
+  "librarians": [
+    {
+      "userName": "Beth Mayers",
+      "password": "lib1"
+    },
+    {
+      "userName": "Eugene Euthanasia",
+      "password": "lib2"
+    }
+  ],
+  "borrowers": [
+    {
+      "cardNum": "101",
+      "password": "b1"
+    },
+    {
+      "cardNum": "666",
+      "password": "b2"
+    }
+  ]
+}
